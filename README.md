@@ -18,7 +18,7 @@
 [GitHub](https://github.com)
 
 ## Imatge externa
-![Imatge externa](https://via.placeholder.com/150)
+![Imatge externa](https://tse1.explicit.bing.net/th/id/OIP.UQckyCbkFWLF3uay03Bz4AHaEA?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ## Imatge interna
 ![Imatge local](./images/imatge_local.png)
