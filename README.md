@@ -13,9 +13,10 @@
 - Sub-element
 1. Ordenada
 2. Segon element
+3. etc etc etc
 
 ## Enllaços
-[GitHub](https://github.com)
+[GitHub](https://github.com/oscarbravovillada)
 
 ## Imatge externa
 ![Imatge externa](https://tse1.explicit.bing.net/th/id/OIP.UQckyCbkFWLF3uay03Bz4AHaEA?rs=1&pid=ImgDetMain&o=7&rm=3)
