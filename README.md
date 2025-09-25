@@ -6,7 +6,7 @@
 ### Nivell 3
 
 ## Text formatat
-**Negreta**, *Cursiva*, ~~Tachado~~, `codi en línia`
+**Negreta**, *Cursiva*, ~~Tachado~~, `<p> Párrafo </p> `
 
 ## Llistes
 - Sense ordre
